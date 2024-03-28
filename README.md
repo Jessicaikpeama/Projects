@@ -1,2 +1,2 @@
 # Projects
-This repository includes some of the projects I've done
+This repository includes some SQL_projects
